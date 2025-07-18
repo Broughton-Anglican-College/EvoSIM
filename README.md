@@ -44,75 +44,41 @@ Step-by-step setup guide for running the project locally.
 _How users interact with the simulation._  
 
 - Launch the simulation from your terminal.
-- Use the input boxes to define:
-  - Number of starting creatures
-  - Maximum population
-  - Respawn rate of food
-- Click **Start** to begin the simulation.
-- Observe real-time updates in the simulation window and the graph tracking average traits (e.g. speed, size, vision).
+- Read through the tutorial to understand application controls
+- Click **Start** to begin your desired simulation.
+- Observe simulation data and live visualisations.
 - Click **Stop** or **Reset** as needed.
-
----
-
-## 📄 License  
-_This project is licensed under the:_  
-**[Your License Name Here]**  
-e.g., MIT License, Apache 2.0, GPLv3.  
-See `LICENSE` file for full details.
-
----
-
-## 🖼️ Visuals  
-_Add screenshots or gifs of your simulation here._  
-
-<p align="center">
-  <img src="assets/screenshot1.png" width="600" alt="Simulation Screenshot">
-  <br>
-  <em>Main simulation window with real-time trait graph.</em>
-</p>
+- Click **Download** to save the sims data as a png of the displayed graphs.
 
 ---
 
 ## 🙏 Acknowledgements  
-_Give credit where it's due._  
 
-- Inspired by [Simulation Theory / Nature of Code / etc.]
-- Special thanks to [Mentors, Contributors, Libraries, Tools]
+- Inspired by the youtube channel Primer who makes similar simulations as displayed in his videos.
+- Special thanks to Mr Bawden, Ryan Hanna and Tristan Randall (Different person) for assisting me during my testing phase and offering continous advice throughout the project.
 
 ---
 
 ## 👤 Author  
-**Name:** [Your Full Name]  
-**Email:** [your.email@example.com]  
-**GitHub:** [https://github.com/yourusername](https://github.com/yourusername)  
-**Website/Portfolio:** [yourwebsite.com]
+**Name:** [Tristan Randall]  
+**Email:** [natsirt.lladnar@gmail.comm]  
+**GitHub:** [https://github.com/Kariean]  
 
 ---
 
 ## 📁 Directory Structure  
 
 ```
-evo-sim/
-├── assets/              # Images, fonts, icons
-├── src/                 # Main simulation code
-│   ├── creatures.py     
-│   ├── environment.py   
-│   └── simulation.py    
-├── docs/                # Optional documentation
-├── LICENSE              
-├── README.md            
-├── main.py              
+Evo-SIM/
+├── Sim_FinalforGH.zip             # Zip containing project files
+├── README.md                   
 └── requirements.txt     
 ```
 
 ---
 
 ## 📌 Additional Details  
-_Use this section for complex setup, optional config files, arguments, or advanced usage._  
-
-- Configurable parameters: (e.g., mutation rate, food spawn rate)
-- Supports saving/loading simulation states.
-- May require Python ≥ 3.10
-- GPU acceleration supported with [library] (optional)
+None at the moment, Thanks for Viewing,
+Kariean
 
 ---
