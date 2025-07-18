@@ -4,7 +4,6 @@ An application which simulates a multitude of observed behaviours in nature, inc
 # Evolution Simulation
 
 ## 🧬 Description  
-_A brief overview of what the project is about._  
 Describe the purpose of your simulation (e.g. natural selection, trait adaptation, predator-prey dynamics, etc.), key features (e.g. real-time visualisation, trait mutation, generational statistics), and what makes it unique or interesting.
 The purpose of my EvoSIM application is to have three functioning simulations which allow for the user to interact with and watch predator vs prey dynamics, the lotka voltera mathematical model, in conjunction with how genetic traits evolve over time to increase surival chances in a specific environment. 
 
