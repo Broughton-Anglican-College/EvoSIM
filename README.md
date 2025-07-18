@@ -3,13 +3,13 @@ An application which simulates a multitude of observed behaviours in nature, inc
 
 # Evolution Simulation
 
-## 🧬 Description  
+##  Description  
 Describe the purpose of your simulation (e.g. natural selection, trait adaptation, predator-prey dynamics, etc.), key features (e.g. real-time visualisation, trait mutation, generational statistics), and what makes it unique or interesting.
 The purpose of my EvoSIM application is to have three functioning simulations which allow for the user to interact with and watch predator vs prey dynamics, the lotka voltera mathematical model, in conjunction with how genetic traits evolve over time to increase surival chances in a specific environment. 
 
 ---
 
-## ⚙️ Installation Instructions  
+## Installation Instructions  
 Step-by-step setup guide for running the project locally.
 
 1. **Download the Repository**  
@@ -40,7 +40,7 @@ Step-by-step setup guide for running the project locally.
 
 ---
 
-## 🚀 How to Use  
+## How to Use  
 - Launch the simulation from your terminal.
 - Read through the tutorial to understand application controls
 - Click **Start** to begin your desired simulation.
@@ -50,21 +50,21 @@ Step-by-step setup guide for running the project locally.
 
 ---
 
-## 🙏 Acknowledgements  
+## Acknowledgements  
 
 - Inspired by the youtube channel Primer who makes similar simulations as displayed in his videos.
 - Special thanks to Mr Bawden, Ryan Hanna and Tristan Randall (Different person) for assisting me during my testing phase and offering continous advice throughout the project.
 
 ---
 
-## 👤 Author  
+## Author  
 **Name:** [Tristan Randall]  
 **Email:** [natsirt.lladnar@gmail.comm]  
 **GitHub:** [https://github.com/Kariean]  
 
 ---
 
-## 📁 Directory Structure  
+## Directory Structure  
 
 ```
 Evo-SIM/
@@ -75,7 +75,7 @@ Evo-SIM/
 
 ---
 
-## 📌 Additional Details  
+## Additional Details  
 None at the moment, Thanks for Viewing,
 Kariean
 
