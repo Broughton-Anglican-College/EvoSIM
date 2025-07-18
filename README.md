@@ -41,8 +41,6 @@ Step-by-step setup guide for running the project locally.
 ---
 
 ## 🚀 How to Use  
-_How users interact with the simulation._  
-
 - Launch the simulation from your terminal.
 - Read through the tutorial to understand application controls
 - Click **Start** to begin your desired simulation.
