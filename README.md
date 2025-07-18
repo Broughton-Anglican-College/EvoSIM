@@ -10,26 +10,33 @@ The purpose of my EvoSIM application is to have three functioning simulations wh
 ---
 
 ## ⚙️ Installation Instructions  
-_Step-by-step setup guide for running the project locally._  
+Step-by-step setup guide for running the project locally.
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/evo-sim.git
-   ```
-2. Navigate into the project directory:
-   ```bash
-   cd evo-sim
-   ```
-3. Install dependencies:
+1. **Download the Repository**  
+   Download the ZIP file from the GitHub repository and extract it to any location on your computer.
+
+2. **Install Required Dependencies**  
+   If the simulation uses external libraries (e.g., `pygame`, `matplotlib`), install them by running:
+
    ```bash
    pip install -r requirements.txt
    ```
-4. Run the simulation:
+
+   If there is no `requirements.txt`, install them manually:
+
    ```bash
-   python main.py
+   pip install pygame matplotlib
    ```
 
-_Note: Update with any other installation steps specific to your project._
+3. **Run the Simulation**  
+   Double-click `FinalVersion.py` to start the simulation, or run it from the command line:
+
+   ```bash
+   python FinalVersion.py
+   ```
+
+4. **Optional:** Modify Parameters  
+   You can adjust simulation settings (e.g. number of creatures, food respawn rate) using the GUI input boxes or by editing values in the source files.
 
 ---
 
