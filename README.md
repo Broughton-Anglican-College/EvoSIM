@@ -16,16 +16,16 @@ Step-by-step setup guide for running the project locally.
    Download the ZIP file from the GitHub repository and extract it to any location on your computer.
 
 2. **Install Required Dependencies**  
-   If the simulation uses external libraries (e.g., `pygame`, `matplotlib`), install them by running:
+   install external library "pygame" by running:
 
    ```bash
    pip install -r requirements.txt
    ```
 
-   If there is no `requirements.txt`, install them manually:
+   If trouble with `requirements.txt`, install pygame manually:
 
    ```bash
-   pip install pygame matplotlib
+   pip install pygame 
    ```
 
 3. **Run the Simulation**  
