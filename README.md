@@ -52,14 +52,14 @@ Step-by-step setup guide for running the project locally.
 
 ## Acknowledgements  
 
-- Inspired by the youtube channel Primer who makes similar simulations as displayed in his videos.
+- Inspired by the youtube channel Primer who makes similar simulations as displayed in his videos. (https://www.youtube.com/@PrimerBlobs)
 - Special thanks to Mr Bawden, Ryan Hanna and Tristan Randall (Different person) for assisting me during my testing phase and offering continous advice throughout the project.
 
 ---
 
 ## Author  
 **Name:** [Tristan Randall]  
-**Email:** [natsirt.lladnar@gmail.comm]  
+**Email:** [natsirt.lladnar@gmail.com]  
 **GitHub:** [https://github.com/Kariean]  
 
 ---
